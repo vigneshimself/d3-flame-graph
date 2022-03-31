@@ -16,3 +16,7 @@ Check [Brendan Gregg's post](http://www.brendangregg.com/flamegraphs.html) to kn
 >
 > <cite>Brendan Gregg</cite>
 
+## Using a pre-packaged tool
+
+If you want to produce a flame graph locally in a single step, try [0x](https://www.npmjs.com/package/0x)
+
