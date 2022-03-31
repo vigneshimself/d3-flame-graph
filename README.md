@@ -1,6 +1,8 @@
 <hr>
-#### Live site: (https://vigneshimself.github.io/d3-flame-graph/)
-</hr>
+
+#### Live site : [vigneshimself.github.io/d3-flame-graph](https://vigneshimself.github.io/d3-flame-graph/)
+
+<hr/>
 
 # d3-flame-graph
 
